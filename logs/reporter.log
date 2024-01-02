@@ -1,0 +1,277 @@
+2023-12-30T03:35:33.275Z - info: Initializing jsreport (version: 4.2.0, configuration file: jsreport.config.json, nodejs: 18.17.1)
+2023-12-30T03:35:33.277Z - info: Searching for available extensions in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2023-12-30T03:35:33.284Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2023-12-30T03:35:33.289Z - info: Found 35 extension(s)
+2023-12-30T03:35:33.346Z - info: Using extension base@4.0.0
+2023-12-30T03:35:33.350Z - info: Using extension child-templates@4.0.0
+2023-12-30T03:35:33.354Z - info: Using extension cli@4.0.2
+2023-12-30T03:35:33.356Z - info: Using extension components@4.0.0
+2023-12-30T03:35:33.357Z - info: Using extension data@4.0.0
+2023-12-30T03:35:33.358Z - info: Using extension express@4.0.1
+2023-12-30T03:35:33.572Z - info: Using extension freeze@4.0.0
+2023-12-30T03:35:33.575Z - info: Using extension fs-store@4.0.1
+2023-12-30T03:35:33.649Z - info: Using extension handlebars@4.0.1
+2023-12-30T03:35:33.651Z - info: Using extension import-export@4.0.2
+2023-12-30T03:35:33.661Z - info: Using extension jsrender@4.0.0
+2023-12-30T03:35:33.662Z - info: Using extension licensing@4.0.1
+2023-12-30T03:35:33.667Z - info: Using extension localization@4.0.1
+2023-12-30T03:35:33.668Z - info: Using extension npm@4.0.0
+2023-12-30T03:35:33.673Z - info: Using extension pdf-utils@4.0.2
+2023-12-30T03:35:33.676Z - info: Using extension reports@4.0.0
+2023-12-30T03:35:33.680Z - info: Using extension tags@4.0.1
+2023-12-30T03:35:33.682Z - info: Using extension text@4.0.0
+2023-12-30T03:35:33.683Z - info: Using extension version-control@4.0.0
+2023-12-30T03:35:33.698Z - info: Using extension assets@4.0.2
+2023-12-30T03:35:33.706Z - info: Using extension authorization@4.0.0
+2023-12-30T03:35:33.709Z - info: Using extension browser-client@4.0.0
+2023-12-30T03:35:33.711Z - info: Using extension chrome-pdf@4.0.0
+2023-12-30T03:35:33.714Z - info: Using extension docx@4.1.1
+2023-12-30T03:35:33.716Z - info: Using extension html-to-xlsx@4.0.1
+2023-12-30T03:35:33.964Z - info: html-to-xlsx detected chrome as available html engine
+2023-12-30T03:35:33.967Z - info: Using extension pptx@4.1.0
+2023-12-30T03:35:33.969Z - info: Using extension scheduling@4.0.0
+2023-12-30T03:35:33.990Z - info: Using extension scripts@4.0.0
+2023-12-30T03:35:33.991Z - info: Using extension static-pdf@4.0.0
+2023-12-30T03:35:33.991Z - info: Using extension studio@4.0.2
+2023-12-30T03:35:34.041Z - info: Using extension xlsx@4.0.2
+2023-12-30T03:35:34.043Z - info: Using extension public-templates@4.0.0
+2023-12-30T03:35:34.044Z - info: Using extension sample-template@4.0.0
+2023-12-30T03:35:34.045Z - info: Using extension studio-theme-dark@4.0.0
+2023-12-30T03:35:34.047Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2023-12-30T03:35:34.047Z - info: Using fs provider for template store.
+2023-12-30T03:35:34.051Z - info: fs store is persisting using fs for C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\data
+2023-12-30T03:35:34.059Z - info: fs store is loading data
+2023-12-30T03:35:34.064Z - info: fs store is initialized successfully
+2023-12-30T03:35:34.073Z - info: Creating default express app.
+2023-12-30T03:35:34.089Z - info: jsreport server successfully started on http port: 5488
+2023-12-30T03:35:34.090Z - info: Verifying license key free
+2023-12-30T03:35:34.091Z - info: Using free license
+2023-12-30T03:35:34.124Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2023-12-30T03:35:34.129Z - info: Migration successful
+2023-12-30T03:35:34.130Z - info: Initializing worker threads
+2023-12-30T03:35:34.913Z - info: 2 worker threads initialized in 783ms
+2023-12-30T03:35:34.914Z - info: Starting temp files cleanup with 180000ms threshold
+2023-12-30T03:35:34.915Z - info: reporter initialized
+2023-12-30T03:38:13.081Z - info: Render request 1 queued for execution and waiting for available worker rootId=l34tm42t110lak9, id=l34tm42t110lak9
+2023-12-30T03:38:13.143Z - info: Starting rendering request 1 rootId=l34tm42t110lak9, id=l34tm42t110lak9
+2023-12-30T03:38:13.143Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=l34tm42t110lak9, id=l34tm42t110lak9
+2023-12-30T03:38:14.887Z - info: Rendering request 1 finished in 1807 ms rootId=l34tm42t110lak9, id=l34tm42t110lak9
+2023-12-30T03:39:10.994Z - info: Render request 2 queued for execution and waiting for available worker rootId=27gvhja7rmcpwzp, id=27gvhja7rmcpwzp
+2023-12-30T03:39:11.043Z - info: Starting rendering request 2 rootId=27gvhja7rmcpwzp, id=27gvhja7rmcpwzp
+2023-12-30T03:39:11.044Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=27gvhja7rmcpwzp, id=27gvhja7rmcpwzp
+2023-12-30T03:39:11.745Z - info: Rendering request 2 finished in 751 ms rootId=27gvhja7rmcpwzp, id=27gvhja7rmcpwzp
+2023-12-30T03:43:34.675Z - info: Initializing jsreport (version: 4.2.0, configuration file: jsreport.config.json, nodejs: 18.17.1)
+2023-12-30T03:43:34.676Z - info: Searching for available extensions in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2023-12-30T03:43:34.682Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2023-12-30T03:43:34.688Z - info: Found 35 extension(s)
+2023-12-30T03:43:34.741Z - info: Using extension authentication@4.0.1
+2023-12-30T03:43:34.891Z - info: Using extension base@4.0.0
+2023-12-30T03:43:34.894Z - info: Using extension child-templates@4.0.0
+2023-12-30T03:43:34.895Z - info: Using extension cli@4.0.2
+2023-12-30T03:43:34.897Z - info: Using extension components@4.0.0
+2023-12-30T03:43:34.898Z - info: Using extension data@4.0.0
+2023-12-30T03:43:34.899Z - info: Using extension express@4.0.1
+2023-12-30T03:43:35.085Z - info: Using extension freeze@4.0.0
+2023-12-30T03:43:35.087Z - info: Using extension fs-store@4.0.1
+2023-12-30T03:43:35.159Z - info: Using extension handlebars@4.0.1
+2023-12-30T03:43:35.161Z - info: Using extension import-export@4.0.2
+2023-12-30T03:43:35.168Z - info: Using extension jsrender@4.0.0
+2023-12-30T03:43:35.168Z - info: Using extension licensing@4.0.1
+2023-12-30T03:43:35.172Z - info: Using extension localization@4.0.1
+2023-12-30T03:43:35.173Z - info: Using extension npm@4.0.0
+2023-12-30T03:43:35.176Z - info: Using extension pdf-utils@4.0.2
+2023-12-30T03:43:35.178Z - info: Using extension reports@4.0.0
+2023-12-30T03:43:35.180Z - info: Using extension tags@4.0.1
+2023-12-30T03:43:35.181Z - info: Using extension text@4.0.0
+2023-12-30T03:43:35.182Z - info: Using extension version-control@4.0.0
+2023-12-30T03:43:35.191Z - info: Using extension assets@4.0.2
+2023-12-30T03:43:35.200Z - info: Using extension authorization@4.0.0
+2023-12-30T03:43:35.203Z - info: Using extension browser-client@4.0.0
+2023-12-30T03:43:35.205Z - info: Using extension chrome-pdf@4.0.0
+2023-12-30T03:43:35.207Z - info: Using extension docx@4.1.1
+2023-12-30T03:43:35.209Z - info: Using extension html-to-xlsx@4.0.1
+2023-12-30T03:43:35.451Z - info: html-to-xlsx detected chrome as available html engine
+2023-12-30T03:43:35.451Z - info: Using extension pptx@4.1.0
+2023-12-30T03:43:35.453Z - info: Using extension scheduling@4.0.0
+2023-12-30T03:43:35.477Z - info: Using extension scripts@4.0.0
+2023-12-30T03:43:35.478Z - info: Using extension static-pdf@4.0.0
+2023-12-30T03:43:35.479Z - info: Using extension studio@4.0.2
+2023-12-30T03:43:35.531Z - info: Using extension xlsx@4.0.2
+2023-12-30T03:43:35.532Z - info: Using extension public-templates@4.0.0
+2023-12-30T03:43:35.533Z - info: Using extension sample-template@4.0.0
+2023-12-30T03:43:35.535Z - info: Using extension studio-theme-dark@4.0.0
+2023-12-30T03:43:35.536Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2023-12-30T03:43:35.536Z - info: Using fs provider for template store.
+2023-12-30T03:43:35.540Z - info: fs store is persisting using fs for C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\data
+2023-12-30T03:43:35.548Z - info: fs store is loading data
+2023-12-30T03:43:35.568Z - info: fs store is initialized successfully
+2023-12-30T03:43:35.578Z - info: Creating default express app.
+2023-12-30T03:43:35.600Z - info: jsreport server successfully started on http port: 5488
+2023-12-30T03:43:35.602Z - info: Verifying license key free
+2023-12-30T03:43:35.603Z - info: Using free license
+2023-12-30T03:43:35.607Z - info: Initializing worker threads
+2023-12-30T03:43:36.362Z - info: 2 worker threads initialized in 755ms
+2023-12-30T03:43:36.363Z - info: Starting temp files cleanup with 180000ms threshold
+2023-12-30T03:43:36.364Z - info: reporter initialized
+2023-12-30T03:45:53.991Z - info: Render request 1 queued for execution and waiting for available worker rootId=tzzz8opk52cao01, id=tzzz8opk52cao01
+2023-12-30T03:45:54.053Z - info: Starting rendering request 1 (user: admin) rootId=tzzz8opk52cao01, id=tzzz8opk52cao01
+2023-12-30T03:45:54.054Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=tzzz8opk52cao01, id=tzzz8opk52cao01
+2023-12-30T03:45:54.864Z - info: Rendering request 1 finished in 872 ms rootId=tzzz8opk52cao01, id=tzzz8opk52cao01
+2023-12-30T03:49:27.581Z - info: Render request 2 queued for execution and waiting for available worker rootId=5ypkf0c1qpjudcm, id=5ypkf0c1qpjudcm
+2023-12-30T03:49:27.627Z - info: Starting rendering request 2 (user: admin) rootId=5ypkf0c1qpjudcm, id=5ypkf0c1qpjudcm
+2023-12-30T03:49:27.628Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=5ypkf0c1qpjudcm, id=5ypkf0c1qpjudcm
+2023-12-30T03:49:28.275Z - info: Rendering request 2 finished in 692 ms rootId=5ypkf0c1qpjudcm, id=5ypkf0c1qpjudcm
+2023-12-30T03:54:25.633Z - info: Render request 3 queued for execution and waiting for available worker rootId=p179lemq1n4dg4g, id=p179lemq1n4dg4g
+2023-12-30T03:54:25.642Z - info: Starting rendering request 3 (user: admin) rootId=p179lemq1n4dg4g, id=p179lemq1n4dg4g
+2023-12-30T03:54:25.642Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=p179lemq1n4dg4g, id=p179lemq1n4dg4g
+2023-12-30T03:54:25.834Z - info: Rendering request 3 finished in 201 ms rootId=p179lemq1n4dg4g, id=p179lemq1n4dg4g
+2023-12-30T05:29:28.602Z - info: Initializing jsreport (version: 4.2.0, configuration file: jsreport.config.json, nodejs: 18.17.1)
+2023-12-30T05:29:28.604Z - info: Searching for available extensions in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2023-12-30T05:29:28.610Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2023-12-30T05:29:28.619Z - info: Found 35 extension(s)
+2023-12-30T05:29:28.686Z - info: Using extension authentication@4.0.1
+2023-12-30T05:29:28.890Z - info: Using extension base@4.0.0
+2023-12-30T05:29:28.893Z - info: Using extension child-templates@4.0.0
+2023-12-30T05:29:28.895Z - info: Using extension cli@4.0.2
+2023-12-30T05:29:28.897Z - info: Using extension components@4.0.0
+2023-12-30T05:29:28.898Z - info: Using extension data@4.0.0
+2023-12-30T05:29:28.899Z - info: Using extension express@4.0.1
+2023-12-30T05:29:29.223Z - info: Using extension freeze@4.0.0
+2023-12-30T05:29:29.225Z - info: Using extension fs-store@4.0.1
+2023-12-30T05:29:29.340Z - info: Using extension handlebars@4.0.1
+2023-12-30T05:29:29.342Z - info: Using extension import-export@4.0.2
+2023-12-30T05:29:29.353Z - info: Using extension jsrender@4.0.0
+2023-12-30T05:29:29.354Z - info: Using extension licensing@4.0.1
+2023-12-30T05:29:29.359Z - info: Using extension localization@4.0.1
+2023-12-30T05:29:29.360Z - info: Using extension npm@4.0.0
+2023-12-30T05:29:29.362Z - info: Using extension pdf-utils@4.0.2
+2023-12-30T05:29:29.364Z - info: Using extension reports@4.0.0
+2023-12-30T05:29:29.367Z - info: Using extension tags@4.0.1
+2023-12-30T05:29:29.369Z - info: Using extension text@4.0.0
+2023-12-30T05:29:29.370Z - info: Using extension version-control@4.0.0
+2023-12-30T05:29:29.384Z - info: Using extension assets@4.0.2
+2023-12-30T05:29:29.396Z - info: Using extension authorization@4.0.0
+2023-12-30T05:29:29.401Z - info: Using extension browser-client@4.0.0
+2023-12-30T05:29:29.404Z - info: Using extension chrome-pdf@4.0.0
+2023-12-30T05:29:29.407Z - info: Using extension docx@4.1.1
+2023-12-30T05:29:29.409Z - info: Using extension html-to-xlsx@4.0.1
+2023-12-30T05:29:29.780Z - info: html-to-xlsx detected chrome as available html engine
+2023-12-30T05:29:29.780Z - info: Using extension pptx@4.1.0
+2023-12-30T05:29:29.782Z - info: Using extension scheduling@4.0.0
+2023-12-30T05:29:29.813Z - info: Using extension scripts@4.0.0
+2023-12-30T05:29:29.814Z - info: Using extension static-pdf@4.0.0
+2023-12-30T05:29:29.815Z - info: Using extension studio@4.0.2
+2023-12-30T05:29:29.886Z - info: Using extension xlsx@4.0.2
+2023-12-30T05:29:29.888Z - info: Using extension public-templates@4.0.0
+2023-12-30T05:29:29.889Z - info: Using extension sample-template@4.0.0
+2023-12-30T05:29:29.891Z - info: Using extension studio-theme-dark@4.0.0
+2023-12-30T05:29:29.893Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2023-12-30T05:29:29.893Z - info: Using fs provider for template store.
+2023-12-30T05:29:29.897Z - info: fs store is persisting using fs for C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\data
+2023-12-30T05:29:29.906Z - info: fs store is loading data
+2023-12-30T05:29:29.925Z - info: fs store is initialized successfully
+2023-12-30T05:29:29.936Z - info: Creating default express app.
+2023-12-30T05:29:29.966Z - info: jsreport server successfully started on http port: 5488
+2023-12-30T05:29:29.968Z - info: Verifying license key free
+2023-12-30T05:29:29.968Z - info: Using free license
+2023-12-30T05:29:29.972Z - info: Initializing worker threads
+2023-12-30T05:29:30.796Z - info: 2 worker threads initialized in 824ms
+2023-12-30T05:29:30.798Z - info: Starting temp files cleanup with 180000ms threshold
+2023-12-30T05:29:30.800Z - info: reporter initialized
+2023-12-30T06:16:47.759Z - info: Render request 1 queued for execution and waiting for available worker rootId=gujkyjg3tnyogqt, id=gujkyjg3tnyogqt
+2023-12-30T06:16:47.860Z - info: Starting rendering request 1 (user: admin) rootId=gujkyjg3tnyogqt, id=gujkyjg3tnyogqt
+2023-12-30T06:16:47.861Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=gujkyjg3tnyogqt, id=gujkyjg3tnyogqt
+2023-12-30T06:16:49.338Z - info: Rendering request 1 finished in 1583 ms rootId=gujkyjg3tnyogqt, id=gujkyjg3tnyogqt
+2023-12-30T06:34:25.719Z - info: Render request 2 queued for execution and waiting for available worker rootId=cnzl359a47cjgyh, id=cnzl359a47cjgyh
+2023-12-30T06:34:25.786Z - info: Starting rendering request 2 (user: admin) rootId=cnzl359a47cjgyh, id=cnzl359a47cjgyh
+2023-12-30T06:34:25.786Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=cnzl359a47cjgyh, id=cnzl359a47cjgyh
+2023-12-30T06:34:26.682Z - info: Rendering request 2 finished in 963 ms rootId=cnzl359a47cjgyh, id=cnzl359a47cjgyh
+2024-01-01T08:47:39.768Z - info: Initializing jsreport (version: 4.2.0, configuration file: jsreport.config.json, nodejs: 18.17.1)
+2024-01-01T08:47:39.770Z - info: Searching for available extensions in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2024-01-01T08:47:39.779Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\
+2024-01-01T08:47:39.789Z - info: Found 35 extension(s)
+2024-01-01T08:47:39.867Z - info: Using extension authentication@4.0.1
+2024-01-01T08:47:40.179Z - info: Using extension base@4.0.0
+2024-01-01T08:47:40.182Z - info: Using extension child-templates@4.0.0
+2024-01-01T08:47:40.184Z - info: Using extension cli@4.0.2
+2024-01-01T08:47:40.188Z - info: Using extension components@4.0.0
+2024-01-01T08:47:40.191Z - info: Using extension data@4.0.0
+2024-01-01T08:47:40.192Z - info: Using extension express@4.0.1
+2024-01-01T08:47:40.589Z - info: Using extension freeze@4.0.0
+2024-01-01T08:47:40.591Z - info: Using extension fs-store@4.0.1
+2024-01-01T08:47:40.734Z - info: Using extension handlebars@4.0.1
+2024-01-01T08:47:40.737Z - info: Using extension import-export@4.0.2
+2024-01-01T08:47:40.751Z - info: Using extension jsrender@4.0.0
+2024-01-01T08:47:40.752Z - info: Using extension licensing@4.0.1
+2024-01-01T08:47:40.782Z - info: Using extension localization@4.0.1
+2024-01-01T08:47:40.783Z - info: Using extension npm@4.0.0
+2024-01-01T08:47:40.788Z - info: Using extension pdf-utils@4.0.2
+2024-01-01T08:47:40.791Z - info: Using extension reports@4.0.0
+2024-01-01T08:47:40.793Z - info: Using extension tags@4.0.1
+2024-01-01T08:47:40.796Z - info: Using extension text@4.0.0
+2024-01-01T08:47:40.797Z - info: Using extension version-control@4.0.0
+2024-01-01T08:47:40.813Z - info: Using extension assets@4.0.2
+2024-01-01T08:47:40.827Z - info: Using extension authorization@4.0.0
+2024-01-01T08:47:40.833Z - info: Using extension browser-client@4.0.0
+2024-01-01T08:47:40.836Z - info: Using extension chrome-pdf@4.0.0
+2024-01-01T08:47:40.840Z - info: Using extension docx@4.1.1
+2024-01-01T08:47:40.842Z - info: Using extension html-to-xlsx@4.0.1
+2024-01-01T08:47:41.312Z - info: html-to-xlsx detected chrome as available html engine
+2024-01-01T08:47:41.312Z - info: Using extension pptx@4.1.0
+2024-01-01T08:47:41.314Z - info: Using extension scheduling@4.0.0
+2024-01-01T08:47:41.348Z - info: Using extension scripts@4.0.0
+2024-01-01T08:47:41.349Z - info: Using extension static-pdf@4.0.0
+2024-01-01T08:47:41.350Z - info: Using extension studio@4.0.2
+2024-01-01T08:47:41.495Z - info: Using extension xlsx@4.0.2
+2024-01-01T08:47:41.498Z - info: Using extension public-templates@4.0.0
+2024-01-01T08:47:41.499Z - info: Using extension sample-template@4.0.0
+2024-01-01T08:47:41.501Z - info: Using extension studio-theme-dark@4.0.0
+2024-01-01T08:47:41.503Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-01-01T08:47:41.503Z - info: Using fs provider for template store.
+2024-01-01T08:47:41.507Z - info: fs store is persisting using fs for C:\Users\Klok\Desktop\CamCyber\NestJS\Minimart\report-v3\data
+2024-01-01T08:47:41.511Z - info: fs store is loading data
+2024-01-01T08:47:41.521Z - info: fs store is initialized successfully
+2024-01-01T08:47:41.531Z - info: Creating default express app.
+2024-01-01T08:47:41.566Z - info: jsreport server successfully started on http port: 5488
+2024-01-01T08:47:41.567Z - info: Verifying license key free
+2024-01-01T08:47:41.568Z - info: Using free license
+2024-01-01T08:47:41.572Z - info: Initializing worker threads
+2024-01-01T08:47:42.383Z - info: 2 worker threads initialized in 811ms
+2024-01-01T08:47:42.385Z - info: Starting temp files cleanup with 180000ms threshold
+2024-01-01T08:47:42.386Z - info: reporter initialized
+2024-01-01T08:47:44.636Z - info: Render request 1 queued for execution and waiting for available worker rootId=ywno7lyc9exaklo, id=ywno7lyc9exaklo
+2024-01-01T08:47:44.736Z - info: Starting rendering request 1 (user: admin) rootId=ywno7lyc9exaklo, id=ywno7lyc9exaklo
+2024-01-01T08:47:44.737Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=ywno7lyc9exaklo, id=ywno7lyc9exaklo
+2024-01-01T08:47:47.052Z - info: Rendering request 1 finished in 2415 ms rootId=ywno7lyc9exaklo, id=ywno7lyc9exaklo
+2024-01-01T08:51:35.339Z - info: Render request 2 queued for execution and waiting for available worker rootId=wcuq59honqx0trw, id=wcuq59honqx0trw
+2024-01-01T08:51:35.390Z - info: Starting rendering request 2 (user: admin) rootId=wcuq59honqx0trw, id=wcuq59honqx0trw
+2024-01-01T08:51:35.390Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=wcuq59honqx0trw, id=wcuq59honqx0trw
+2024-01-01T08:51:36.038Z - info: Rendering request 2 finished in 699 ms rootId=wcuq59honqx0trw, id=wcuq59honqx0trw
+2024-01-01T08:51:39.277Z - info: Render request 3 queued for execution and waiting for available worker rootId=n84jmw0igcqug26, id=n84jmw0igcqug26
+2024-01-01T08:51:39.286Z - info: Starting rendering request 3 (user: admin) rootId=n84jmw0igcqug26, id=n84jmw0igcqug26
+2024-01-01T08:51:39.287Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=n84jmw0igcqug26, id=n84jmw0igcqug26
+2024-01-01T08:51:39.469Z - info: Rendering request 3 finished in 190 ms rootId=n84jmw0igcqug26, id=n84jmw0igcqug26
+2024-01-01T08:51:44.867Z - info: Render request 4 queued for execution and waiting for available worker rootId=wnbngkva7s73jg8, id=wnbngkva7s73jg8
+2024-01-01T08:51:44.879Z - info: Starting rendering request 4 (user: admin) rootId=wnbngkva7s73jg8, id=wnbngkva7s73jg8
+2024-01-01T08:51:44.880Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=wnbngkva7s73jg8, id=wnbngkva7s73jg8
+2024-01-01T08:51:45.030Z - info: Rendering request 4 finished in 163 ms rootId=wnbngkva7s73jg8, id=wnbngkva7s73jg8
+2024-01-01T08:52:50.717Z - info: Render request 5 queued for execution and waiting for available worker rootId=85rbxfeift2less, id=85rbxfeift2less
+2024-01-01T08:52:50.723Z - info: Starting rendering request 5 (user: admin) rootId=85rbxfeift2less, id=85rbxfeift2less
+2024-01-01T08:52:50.723Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=85rbxfeift2less, id=85rbxfeift2less
+2024-01-01T08:52:50.867Z - info: Rendering request 5 finished in 148 ms rootId=85rbxfeift2less, id=85rbxfeift2less
+2024-01-01T08:53:14.854Z - info: Render request 6 queued for execution and waiting for available worker rootId=k0wyv4jjemgkfua, id=k0wyv4jjemgkfua
+2024-01-01T08:53:14.865Z - info: Starting rendering request 6 (user: admin) rootId=k0wyv4jjemgkfua, id=k0wyv4jjemgkfua
+2024-01-01T08:53:14.866Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=k0wyv4jjemgkfua, id=k0wyv4jjemgkfua
+2024-01-01T08:53:15.015Z - info: Rendering request 6 finished in 161 ms rootId=k0wyv4jjemgkfua, id=k0wyv4jjemgkfua
+2024-01-01T08:53:31.638Z - info: Render request 7 queued for execution and waiting for available worker rootId=06nxs1a428aobkc, id=06nxs1a428aobkc
+2024-01-01T08:53:31.649Z - info: Starting rendering request 7 (user: admin) rootId=06nxs1a428aobkc, id=06nxs1a428aobkc
+2024-01-01T08:53:31.650Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=06nxs1a428aobkc, id=06nxs1a428aobkc
+2024-01-01T08:53:31.798Z - info: Rendering request 7 finished in 158 ms rootId=06nxs1a428aobkc, id=06nxs1a428aobkc
+2024-01-01T08:53:51.228Z - info: Render request 8 queued for execution and waiting for available worker rootId=vvgff61c3as3alk, id=vvgff61c3as3alk
+2024-01-01T08:53:51.240Z - info: Starting rendering request 8 (user: admin) rootId=vvgff61c3as3alk, id=vvgff61c3as3alk
+2024-01-01T08:53:51.240Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=vvgff61c3as3alk, id=vvgff61c3as3alk
+2024-01-01T08:53:51.387Z - info: Rendering request 8 finished in 159 ms rootId=vvgff61c3as3alk, id=vvgff61c3as3alk
+2024-01-01T08:59:39.108Z - info: Render request 9 queued for execution and waiting for available worker rootId=lwei2sc5puhyqwj, id=lwei2sc5puhyqwj
+2024-01-01T08:59:39.115Z - info: Starting rendering request 9 (user: admin) rootId=lwei2sc5puhyqwj, id=lwei2sc5puhyqwj
+2024-01-01T08:59:39.116Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=lwei2sc5puhyqwj, id=lwei2sc5puhyqwj
+2024-01-01T08:59:39.310Z - info: Rendering request 9 finished in 203 ms rootId=lwei2sc5puhyqwj, id=lwei2sc5puhyqwj
