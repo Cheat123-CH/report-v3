@@ -28,6 +28,16 @@
     "numberOfWorkers": 2
   },
   "extensions": {
+    "chrome-pdf": {
+      "launchOptions": {
+        "executablePath": "/usr/bin/chromium-browser",
+        "args": [
+          "--no-sandbox",
+          "--disable-setuid-sandbox",
+          "--disable-dev-shm-usage"
+        ]
+      }
+    },
     "authentication": {
       "cookieSession": {
         "secret": "Y8mIgdfplI0lHMrG"
