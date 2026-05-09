@@ -2,7 +2,7 @@
   "name": "jsreport-server",
   "main": "server.js",
   "scripts": {
-    "postinstall": "node -e \"require('child_process').execSync('npx puppeteer browsers install chrome', {stdio: 'inherit'})\"",
+    "postinstall": "npx puppeteer browsers install chrome",
     "start": "node server.js",
     "build": "echo 'No build step required'",
     "start:prod": "node server.js"
