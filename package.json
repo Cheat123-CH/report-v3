@@ -2,11 +2,10 @@
   "name": "jsreport-server",
   "main": "server.js",
   "scripts": {
-    "postinstall": "node -e \"const p = require('puppeteer'); p.executablePath && console.log(p.executablePath())\"",
+    "postinstall": "npx jsreport install chrome",
     "start": "node server.js",
     "build": "echo 'No build step required'",
-    "start:prod": "node server.js",
-    "jsreport": "jsreport start"
+    "start:prod": "node server.js"
   },
   "jsreport": {
     "entryPoint": "server.js"
@@ -15,6 +14,6 @@
     "node": "18.x"
   },
   "dependencies": {
-    "jsreport": "^4.10.1"
+    "jsreport": "^4.2.0"
   }
 }
