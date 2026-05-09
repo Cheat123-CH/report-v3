@@ -440,3 +440,56 @@
 2026-05-09T05:16:12.888Z - info: 2 worker threads initialized in 424ms
 2026-05-09T05:16:12.889Z - info: Starting temp files cleanup with 180000ms threshold
 2026-05-09T05:16:12.889Z - info: reporter initialized
+2026-05-09T10:20:05.880Z - info: Initializing jsreport (version: 4.10.1, configuration file: jsreport.config.json, nodejs: 22.12.0)
+2026-05-09T10:20:05.884Z - info: Searching for available extensions in D:\year3\camcyber\report-v3\
+2026-05-09T10:20:05.944Z - info: Extensions location cache contains up to date information, skipping crawling in D:\year3\camcyber\report-v3\
+2026-05-09T10:20:05.954Z - info: Found 35 extension(s)
+2026-05-09T10:20:06.069Z - info: Using extension authentication@4.2.3
+2026-05-09T10:20:06.453Z - info: Using extension base@4.0.0
+2026-05-09T10:20:06.458Z - info: Using extension child-templates@4.1.0
+2026-05-09T10:20:06.459Z - info: Using extension cli@4.1.2
+2026-05-09T10:20:06.464Z - info: Using extension components@4.0.2
+2026-05-09T10:20:06.467Z - info: Using extension data@4.1.0
+2026-05-09T10:20:06.470Z - info: Using extension express@4.2.3
+2026-05-09T10:20:07.218Z - info: Using extension freeze@4.0.0
+2026-05-09T10:20:07.221Z - info: Using extension fs-store@4.1.1
+2026-05-09T10:20:07.475Z - info: Using extension handlebars@4.0.1
+2026-05-09T10:20:07.477Z - info: Using extension import-export@4.0.8
+2026-05-09T10:20:07.496Z - info: Using extension jsrender@4.0.0
+2026-05-09T10:20:07.498Z - info: Using extension licensing@4.0.5
+2026-05-09T10:20:07.556Z - info: Using extension localization@4.0.1
+2026-05-09T10:20:07.558Z - info: Using extension npm@4.0.1
+2026-05-09T10:20:07.563Z - info: Using extension pdf-utils@4.4.1
+2026-05-09T10:20:07.569Z - info: Using extension reports@4.1.5
+2026-05-09T10:20:07.574Z - info: Using extension tags@4.0.1
+2026-05-09T10:20:07.576Z - info: Using extension text@4.0.2
+2026-05-09T10:20:07.578Z - info: Using extension version-control@4.1.1
+2026-05-09T10:20:07.589Z - info: Using extension assets@4.2.3
+2026-05-09T10:20:07.608Z - info: Using extension authorization@4.1.0
+2026-05-09T10:20:07.615Z - info: Using extension browser-client@4.1.0
+2026-05-09T10:20:07.619Z - info: Using extension chrome-pdf@4.3.0
+2026-05-09T10:20:07.626Z - info: Using extension docx@4.9.0
+2026-05-09T10:20:07.628Z - info: Using extension html-to-xlsx@4.2.4
+2026-05-09T10:20:08.094Z - info: html-to-xlsx detected chrome as available html engine
+2026-05-09T10:20:08.095Z - info: Using extension pptx@4.4.2
+2026-05-09T10:20:08.097Z - info: Using extension scheduling@4.1.0
+2026-05-09T10:20:08.137Z - info: Using extension scripts@4.2.0
+2026-05-09T10:20:08.139Z - info: Using extension static-pdf@4.1.0
+2026-05-09T10:20:08.141Z - info: Using extension studio@4.3.2
+2026-05-09T10:20:08.292Z - info: Using extension xlsx@4.5.1
+2026-05-09T10:20:08.295Z - info: Using extension public-templates@4.0.0
+2026-05-09T10:20:08.297Z - info: Using extension sample-template@4.0.2
+2026-05-09T10:20:08.299Z - info: Using extension studio-theme-dark@4.0.0
+2026-05-09T10:20:08.302Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2026-05-09T10:20:08.302Z - info: Using fs provider for template store.
+2026-05-09T10:20:08.308Z - info: fs store is persisting using fs for D:\year3\camcyber\report-v3\data
+2026-05-09T10:20:08.315Z - info: fs store is loading data
+2026-05-09T10:20:08.336Z - info: fs store is initialized successfully
+2026-05-09T10:20:08.350Z - info: Creating default express app.
+2026-05-09T10:20:08.395Z - info: jsreport server successfully started on http port: 5488
+2026-05-09T10:20:08.397Z - info: Verifying license key free
+2026-05-09T10:20:08.398Z - info: Using free license
+2026-05-09T10:20:08.405Z - info: Initializing worker threads
+2026-05-09T10:20:09.174Z - info: 2 worker threads initialized in 770ms
+2026-05-09T10:20:09.175Z - info: Starting temp files cleanup with 180000ms threshold
+2026-05-09T10:20:09.176Z - info: reporter initialized

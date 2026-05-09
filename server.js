@@ -1,6 +1,6 @@
 const jsreport = require('jsreport')()
 
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 5488
 
 if (process.env.JSREPORT_CLI) {
   module.exports = jsreport
