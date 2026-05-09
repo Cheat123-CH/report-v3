@@ -383,3 +383,60 @@
     at async Object.load (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\provider.js:122:7)
     at async Object.init (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-core\lib\main\store\documentStore.js:162:9)
     at async MainReporter.init (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-core\lib\main\reporter.js:229:7)
+2026-05-09T05:16:10.979Z - info: Initializing jsreport (version: 4.10.1, configuration file: jsreport.config.json, nodejs: 22.12.0)
+2026-05-09T05:16:10.981Z - info: Searching for available extensions in D:\year3\camcyber\report-v3\
+2026-05-09T05:16:10.986Z - info: Extensions location cache C:\Users\TUF\AppData\Local\Temp\jsreport\core\locations.json contains older information, crawling
+2026-05-09T05:16:11.300Z - info: Found 35 extension(s)
+2026-05-09T05:16:11.355Z - info: Using extension authentication@4.2.3
+2026-05-09T05:16:11.554Z - info: Using extension base@4.0.0
+2026-05-09T05:16:11.557Z - info: Using extension child-templates@4.1.0
+2026-05-09T05:16:11.558Z - info: Using extension cli@4.1.2
+2026-05-09T05:16:11.561Z - info: Using extension components@4.0.2
+2026-05-09T05:16:11.562Z - info: Using extension data@4.1.0
+2026-05-09T05:16:11.563Z - info: Using extension express@4.2.3
+2026-05-09T05:16:11.930Z - info: Using extension freeze@4.0.0
+2026-05-09T05:16:11.933Z - info: Using extension fs-store@4.1.1
+2026-05-09T05:16:12.024Z - info: Using extension handlebars@4.0.1
+2026-05-09T05:16:12.026Z - info: Using extension import-export@4.0.8
+2026-05-09T05:16:12.035Z - info: Using extension jsrender@4.0.0
+2026-05-09T05:16:12.036Z - info: Using extension licensing@4.0.5
+2026-05-09T05:16:12.066Z - info: Using extension localization@4.0.1
+2026-05-09T05:16:12.067Z - info: Using extension npm@4.0.1
+2026-05-09T05:16:12.070Z - info: Using extension pdf-utils@4.4.1
+2026-05-09T05:16:12.072Z - info: Using extension reports@4.1.5
+2026-05-09T05:16:12.074Z - info: Using extension tags@4.0.1
+2026-05-09T05:16:12.077Z - info: Using extension text@4.0.2
+2026-05-09T05:16:12.078Z - info: Using extension version-control@4.1.1
+2026-05-09T05:16:12.084Z - info: Using extension assets@4.2.3
+2026-05-09T05:16:12.094Z - info: Using extension authorization@4.1.0
+2026-05-09T05:16:12.097Z - info: Using extension browser-client@4.1.0
+2026-05-09T05:16:12.100Z - info: Using extension chrome-pdf@4.3.0
+2026-05-09T05:16:12.104Z - info: Using extension docx@4.9.0
+2026-05-09T05:16:12.106Z - info: Using extension html-to-xlsx@4.2.4
+2026-05-09T05:16:12.257Z - info: html-to-xlsx detected chrome as available html engine
+2026-05-09T05:16:12.258Z - info: Using extension pptx@4.4.2
+2026-05-09T05:16:12.260Z - info: Using extension scheduling@4.1.0
+2026-05-09T05:16:12.279Z - info: Using extension scripts@4.2.0
+2026-05-09T05:16:12.280Z - info: Using extension static-pdf@4.1.0
+2026-05-09T05:16:12.280Z - info: Using extension studio@4.3.2
+2026-05-09T05:16:12.377Z - info: Using extension xlsx@4.5.1
+2026-05-09T05:16:12.378Z - info: Using extension public-templates@4.0.0
+2026-05-09T05:16:12.379Z - info: Using extension sample-template@4.0.2
+2026-05-09T05:16:12.380Z - info: Using extension studio-theme-dark@4.0.0
+2026-05-09T05:16:12.382Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2026-05-09T05:16:12.382Z - info: Using fs provider for template store.
+2026-05-09T05:16:12.386Z - info: fs store is persisting using fs for D:\year3\camcyber\report-v3\data
+2026-05-09T05:16:12.390Z - info: fs store is loading data
+2026-05-09T05:16:12.395Z - info: fs store is initialized successfully
+2026-05-09T05:16:12.403Z - info: Creating default express app.
+2026-05-09T05:16:12.433Z - info: jsreport server successfully started on http port: 3000
+2026-05-09T05:16:12.438Z - info: Verifying license key free
+2026-05-09T05:16:12.439Z - info: Using free license
+2026-05-09T05:16:12.446Z - info: pdf footers check started
+2026-05-09T05:16:12.447Z - info: pdf footers check finished without found problems
+2026-05-09T05:16:12.457Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2026-05-09T05:16:12.462Z - info: Migration successful
+2026-05-09T05:16:12.464Z - info: Initializing worker threads
+2026-05-09T05:16:12.888Z - info: 2 worker threads initialized in 424ms
+2026-05-09T05:16:12.889Z - info: Starting temp files cleanup with 180000ms threshold
+2026-05-09T05:16:12.889Z - info: reporter initialized
