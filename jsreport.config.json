@@ -25,7 +25,7 @@
   "trustUserCode": false,
   "reportTimeout": 60000,
   "workers": {
-    "numberOfWorkers": 2
+    "numberOfWorkers": 1
   },
   "extensions": {
     "chrome-pdf": {
