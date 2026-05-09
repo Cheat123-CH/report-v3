@@ -1,0 +1,20 @@
+2026-05-09T04:40:04.690Z - error: Error occurred during reporter init: Error: Data file "settings" is corrupted. To recover you need to open it in an editor and fix the json inside.
+    at loadFlatDocument (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\persistence.js:309:11)
+    at async loadFlatDocuments (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\persistence.js:327:36)
+    at async Object.load (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\persistence.js:377:5)
+    at async Object.reload (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\provider.js:145:26)
+    at async D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\provider.js:125:9
+    at async lock (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\customUtils.js:150:12)
+    at async Object.load (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\provider.js:122:7)
+    at async Object.init (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-core\lib\main\store\documentStore.js:162:9)
+    at async MainReporter.init (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-core\lib\main\reporter.js:229:7)
+2026-05-09T04:40:18.985Z - error: Error occurred during reporter init: Error: Data file "settings" is corrupted. To recover you need to open it in an editor and fix the json inside.
+    at loadFlatDocument (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\persistence.js:309:11)
+    at async loadFlatDocuments (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\persistence.js:327:36)
+    at async Object.load (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\persistence.js:377:5)
+    at async Object.reload (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\provider.js:145:26)
+    at async D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\provider.js:125:9
+    at async lock (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\customUtils.js:150:12)
+    at async Object.load (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-fs-store\lib\provider.js:122:7)
+    at async Object.init (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-core\lib\main\store\documentStore.js:162:9)
+    at async MainReporter.init (D:\year3\camcyber\report-v3\node_modules\@jsreport\jsreport-core\lib\main\reporter.js:229:7)
